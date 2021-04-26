@@ -1,26 +1,9 @@
-SUSANTO Kevlin / M1 DEVWEB
-=================================================
-Lien vers prod : https://front-ynov.herokuapp.com/
+babacar THIAM
 
+M1 MASTER DEV WEB
 
+je n'ai malheureusement pas terminer le front  de mon site car je suis rentré au senegal pour les obseques de mon pere ( et j'ai des erreurs ) .
+mais je pense avoir beaucoup avancé comme vous pouvez le verifier au niveau du code .
+je compte bien le terminer pendant les vacances pour et en faire mon site de vente en ligne .
 
-# ynov-eshop
-
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Encore desolé de ne pas avoir terminer le projet.
